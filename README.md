@@ -21,21 +21,21 @@ Designed and implemented a **1-bit, 8-function Arithmetic Logic Unit (ALU)** in 
 
 ---
 
-## 📐 Schematic
+## 🔧 Schematic
 ![ALU Schematic](images/alu.png)  
-*Fig. 1. Schematic diagram of the ALU using optimized full adders*  
+*Fig. 1. Schematic diagram of the ALU using optimized full adders*
 
 ---
 
 ## 📊 Simulation Outputs
-![ALU Simulation](images/4-bit%20ALU%20Simulation%20Output.png)  
-*Fig. 2. Produced output of 4-bit ALU using optimized techniques*  
+![4-bit ALU Output](images/4-bit%20ALU%20Simulation%20Output.png)  
+*Fig. 2. Produced output of 4-bit ALU using optimized techniques*
 
 ---
 
 ## ⚡ Power Analysis
-![Power Table](images/Power%20Consumption%20Table.png)  
-*Fig. 3. Power consumption comparison of different ALU techniques*  
+![Power Consumption Table](images/Power%20Consumption%20Table.png)  
+*Fig. 3. Power consumption comparison of different ALU techniques*
 
 ---
 
